@@ -133,11 +133,3 @@ We already deployed contracts to [Ropsten](https://ropsten.etherscan.io/) networ
 ## Card List
 
 See [CARD.md](./dapp/CARD.md) for more information.
-
-## Contributing
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to help out.
-
-## Licence
-
-See [LICENSE](./LICENSE) for details.
